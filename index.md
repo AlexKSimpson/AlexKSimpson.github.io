@@ -1,4 +1,5 @@
 ![Picture](small-pic.jpeg)
+
 # Alex Simpson
 
 I am professor of computer science at the Faculty of Mathematics and Physics, University of Ljubljana, Slovenia. 
