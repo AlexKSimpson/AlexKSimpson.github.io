@@ -1,3 +1,3 @@
-# Alex Simpson: Website ![Picture](pic.jpeg)
+# Alex Simpson: Website ![Picture](small-pic.jpeg)
 
 
