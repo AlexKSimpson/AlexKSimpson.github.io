@@ -1,6 +1,3 @@
-# Alex Simpson: Website
+# Alex Simpson: Website ![Picture](pic.jpeg)
 
-## Trying headings
 
-Or this way
-===========
