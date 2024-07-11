@@ -13,6 +13,6 @@ This webpage is under construction.
 
 Here are links to some recent talks.
 
-- A Tutorial on Sheaf Semantics. Invited tutorial at LICS 2024. ([slides](Talks/TutorialOnSheafSemantics.pdf)).
-- Another talk. 
+- A Tutorial on Sheaf Semantics. Invited tutorial at LICS, July  2024. ([slides](Talks/TutorialOnSheafSemantics.pdf))
+- Three Toposes for  Probability and Randomness. Topos Colloquium, June 2024. ([slides](Talks/ThreeToposes.pdf), [video](https://www.youtube.com/watch?v=Y1RkPhwJ0Mo))
 
