@@ -7,6 +7,8 @@ Before 2015, I was based at the Laboratory for Foundations of Computer Science, 
 
 I am interested in the foundations of mathematics and computer science and in interactions between them.
 
+Contact: Alex dot Simpson at fmf dot uni-li dot si
+
 This webpage is under construction.
 
 # Talks
