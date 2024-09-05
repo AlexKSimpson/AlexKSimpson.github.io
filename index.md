@@ -17,5 +17,5 @@ Here are links to some recent talks.
 
 - *A Tutorial on Sheaf Semantics*. Invited tutorial at LICS, July  2024. ([slides](Talks/TutorialOnSheafSemantics.pdf))
 - *Three Toposes for  Probability and Randomness*. Topos Colloquium, June 2024. ([slides](Talks/ThreeToposes.pdf), [video](https://www.youtube.com/watch?v=Y1RkPhwJ0Mo))
-- "A Mathematical Theory of True Randomness". Two-part seminar given at UNISA in Pretoria, January 2023.  ([slides](Talks/Pretoria23.pdf), [video](https://www.youtube.com/watch?v=NEqHOtl3-I0))
+- *A Mathematical Theory of True Randomness*. Two-part seminar given at UNISA in Pretoria, January 2023.  ([slides](Talks/Pretoria23.pdf), [video](https://www.youtube.com/watch?v=NEqHOtl3-I0))
 
