@@ -18,13 +18,13 @@ Selected recent talks.
 - *A Tutorial on Sheaf Semantics*. Invited tutorial at LICS, July  2024. ([slides](Talks/TutorialOnSheafSemantics.pdf))
 - *Three Toposes for  Probability and Randomness*. Topos Colloquium, June 2024. ([slides](Talks/ThreeToposes.pdf), [video](https://www.youtube.com/watch?v=Y1RkPhwJ0Mo))
 - *A Mathematical Theory of True Randomness*. Two-part seminar given at UNISA in Pretoria, January 2023.  ([slides](Talks/Pretoria23.pdf), [video](https://www.youtube.com/watch?v=NEqHOtl3-I0))
-- *Synthetic Probability Theory*. Categorical Probability and Statistics 2020. ([slides](Talks/synthProbThry.pdf),[video](https://www.youtube.com/watch?v=XtsBsLM9ofk))
+- *Synthetic Probability Theory*. Categorical Probability and Statistics 2020. ([slides](Talks/synthProbThry.pdf), [video](https://www.youtube.com/watch?v=XtsBsLM9ofk))
 
 # Papers
 
 Selected recent papers.
 
-- *Equivalence and Conditional Independence in Atomic Sheaf Logic*. LICS 2024. ([ACM publication](https://dl.acm.org/doi/10.1145/3661814.3662132), [ArXiV preprint](https://arxiv.org/abs/2405.11073), [LICS talk slides](Talks/lics2024Simpson.pdf))
+- *Equivalence and Conditional Independence in Atomic Sheaf Logic*. LICS 2024. ([ACM publication](https://dl.acm.org/doi/10.1145/3661814.3662132), [ArXiV preprint](https://arxiv.org/abs/2405.11073), [LICS slides](Talks/lics2024Simpson.pdf))
 
 - *Category-theoretic Structure for Independence and Conditional Independence*. MFPS 2017. ([ENTCS publication](https://doi.org/10.1016/j.entcs.2018.03.028), [preprint](Papers/conditional-independence.pdf))
 
