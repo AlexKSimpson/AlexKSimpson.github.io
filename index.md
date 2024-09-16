@@ -25,4 +25,6 @@ Selected papers.
 
 - "Equivalence and Conditional Independence in Atomic Sheaf Logic", LICS 2024. ([ACM publication](https://dl.acm.org/doi/10.1145/3661814.3662132),[ArXiV preprint](https://arxiv.org/abs/2405.11073))
 
+- "Category-theoretic Structure for Independence and Conditional Independence", MFPS 2017. ([ENTCS publication](https://doi.org/10.1016/j.entcs.2018.03.028), [preprint](Papers/conditional-independence.pdf))
+
 
