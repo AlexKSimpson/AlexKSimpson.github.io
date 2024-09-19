@@ -24,6 +24,8 @@ Selected recent talks.
 
 Selected recent papers.
 
+- *An Imperative Language for Verified Exact Real-Number Computation*, with Andrej Bauer and Sewon Park. ([ArXiV preprint](https://arxiv.org/abs/2409.11946))
+
 - *Equivalence and Conditional Independence in Atomic Sheaf Logic*. LICS 2024. ([ACM publication](https://dl.acm.org/doi/10.1145/3661814.3662132), [LICS slides](Talks/lics2024Simpson.pdf), [ArXiV preprint](https://arxiv.org/abs/2405.11073))
 
 - *Category-theoretic Structure for Independence and Conditional Independence*. MFPS 2017. ([ENTCS publication](https://doi.org/10.1016/j.entcs.2018.03.028), [preprint](Papers/conditional-independence.pdf))
