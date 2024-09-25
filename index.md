@@ -31,4 +31,10 @@ Selected recent papers.
 
 - *Category-theoretic Structure for Independence and Conditional Independence*. MFPS 2017. ([ENTCS publication](https://doi.org/10.1016/j.entcs.2018.03.028), [preprint](Papers/conditional-independence.pdf))
 
+# Teaching
+
+Selected lecture courses
+
+-*Category Theory*. Mathematics PhD course 2022-23. ([Lecture videos on YouTube](https://www.youtube.com/playlist?list=PLx3dTuDvniVLVjpE8z4wptprGGwuDuzLp))
+
 
