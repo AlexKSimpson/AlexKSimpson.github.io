@@ -35,8 +35,8 @@ Selected recent papers.
 
 Selected lecture courses
 
--*Category Theory*. Mathematics PhD course, 2022-23. ([Lecture videos](https://www.youtube.com/playlist?list=PLx3dTuDvniVLVjpE8z4wptprGGwuDuzLp))
+- *Category Theory*. Mathematics PhD course, 2022-23. ([Lecture videos](https://www.youtube.com/playlist?list=PLx3dTuDvniVLVjpE8z4wptprGGwuDuzLp))
 
--*Computability Theory*. Mathematics MSc course, 2022-23. ([Lecture notes](Teaching/tinotes.pdf))
+- *Computability Theory*. Mathematics MSc course, 2022-23. ([Lecture notes](Teaching/tinotes.pdf))
 
 
