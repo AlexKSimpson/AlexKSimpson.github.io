@@ -15,9 +15,10 @@ This webpage is under construction.
 
 Selected recent talks.
 
-- *A Tutorial on Sheaf Semantics*. Invited tutorial at LICS, July  2024. ([slides](Talks/TutorialOnSheafSemantics.pdf))
+- *Countable and Dependent Choice and Countably Distributive Toposes*. Talk at PSSL 109, Leiden, Novermber 2024. ([slides](Talks/ThreeTopose.pdf))
+- *A Tutorial on Sheaf Semantics*. Invited tutorial at LICS, July  2024. ([slides](Talks/CCDCCD.pdf))
 - *Three Toposes for  Probability and Randomness*. Topos Colloquium, June 2024. ([slides](Talks/ThreeToposes.pdf), [video](https://www.youtube.com/watch?v=Y1RkPhwJ0Mo))
-- *Probabilistic Programming with Coinductive Data*. Invited talk at MFPS 2023. ([slides](Talks/SimpsonMFPS2023.pdf))
+- *Probabilistic Programming with Coinductive Data*. Invited talk at MFPS 2023, June 2023. ([slides](Talks/SimpsonMFPS2023.pdf))
 - *A Mathematical Theory of True Randomness*. Two-part seminar given at UNISA in Pretoria, January 2023.  ([slides](Talks/Pretoria23.pdf), [video](https://www.youtube.com/watch?v=NEqHOtl3-I0))
 - *Synthetic Probability Theory*. Categorical Probability and Statistics 2020. ([slides](Talks/synthProbThry.pdf), [video](https://www.youtube.com/watch?v=XtsBsLM9ofk))
 
