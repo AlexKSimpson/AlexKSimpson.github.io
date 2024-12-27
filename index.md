@@ -15,6 +15,7 @@ This webpage is under construction.
 
 Selected recent talks.
 
+- *Stochastic Calculus via Stopping Derivatives*. Talk at Probability Day, Ljubljana, December 2024. ([slides](Talks/ProbabilityDay2024Simpson.pdf))
 - *Countable and Dependent Choice and Countably Distributive Toposes*. Talk at PSSL 109, Leiden, Novermber 2024. ([slides](Talks/CCDCCD.pdf))
 - *A Tutorial on Sheaf Semantics*. Invited tutorial at LICS, July  2024. ([slides](Talks/TutorialOnSheafSemantics.pdf))
 - *Three Toposes for  Probability and Randomness*. Topos Colloquium, June 2024. ([slides](Talks/ThreeToposes.pdf), [video](https://www.youtube.com/watch?v=Y1RkPhwJ0Mo))
