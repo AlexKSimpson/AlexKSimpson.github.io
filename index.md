@@ -25,7 +25,10 @@ Selected recent talks.
 
 # Papers
 
-Selected recent papers.
+Selected recent papers and preprints.
+
+
+- *Stochastic Calculus via Stopping Derivatives*. ([ArXiV preprint](http://arxiv.org/abs/2501.02862))
 
 - *An Imperative Language for Verified Exact Real-Number Computation*, with Andrej Bauer and Sewon Park. ([ArXiV preprint](https://arxiv.org/abs/2409.11946))
 
@@ -39,7 +42,7 @@ Selected recent papers.
 
 Selected lecture courses
 
-- *Category Theory*. Mathematics PhD course, 2022-23. ([Lecture videos](https://www.youtube.com/playlist?list=PLx3dTuDvniVLVjpE8z4wptprGGwuDuzLp))
+- *Category Theory*. Mathematics PhD course, 2022-23. ([Lecture videos](https://www.youtube.com/playlist?list=PLx3dTuDvniVLVjpE8z4wptprGGwuDuzLp), [Lecture notes](Teaching/CTall.pdf))
 
 - *Computability Theory*. Mathematics MSc course, 2022-23. ([Lecture notes](Teaching/tinotes.pdf))
 
