@@ -27,6 +27,7 @@ Selected recent talks.
 
 Selected recent papers and preprints.
 
+- *Safety, Relative Tightness and the Probabilistic Frame Rulle", with Janez Ignacij Jereb. Presented at MFPS XLI, Glasgow, June 2025. ([ArXiV preprint](http://arxiv.org/abs/2506.01626))
 
 - *Stochastic Calculus via Stopping Derivatives*. ([ArXiV preprint](http://arxiv.org/abs/2501.02862))
 
