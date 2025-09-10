@@ -15,6 +15,8 @@ This webpage is under construction.
 
 Selected recent talks.
 
+
+- *Synthesising Random Variables*. Talk at CIRM conference on Synthetic Mathematics, September 2025. ([slides](Talks/synthesisingRVs.pdf))
 - *Stochastic Calculus via Stopping Derivatives*. Talk at Probability Day, Ljubljana, December 2024. ([slides](Talks/ProbabilityDay2024Simpson.pdf))
 - *Countable and Dependent Choice and Countably Distributive Toposes*. Talk at PSSL 109, Leiden, Novermber 2024. ([slides](Talks/CCDCCD.pdf))
 - *A Tutorial on Sheaf Semantics*. Invited tutorial at LICS, July  2024. ([slides](Talks/TutorialOnSheafSemantics.pdf))
