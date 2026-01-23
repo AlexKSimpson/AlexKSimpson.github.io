@@ -35,7 +35,7 @@ Selected recent papers and preprints.
 
 - *An Imperative Language for Verified Exact Real-Number Computation*, with Andrej Bauer and Sewon Park. ([ArXiV preprint](https://arxiv.org/abs/2409.11946))
 
-- *Equivalence and Conditional Independence in Atomic Sheaf Logic*. LICS 2024. ([ACM publication](https://dl.acm.org/doi/10.1145/3661814.3662132), [LICS slides](Talks/lics2024Simpson.pdf), [ArXiV preprint](https://arxiv.org/abs/2405.11073))
+- *Equivalence and Conditional Independence in Atomic Sheaf Logic*. LICS 2024. ([ACM publication](https://dl.acm.org/doi/10.1145/3661814.3662132), [LICS slides](Talks/lics2024Simpson.pdf), [ArXiV preprint](https://arxiv.org/abs/2405.11073), [Submitted journal version](Papers/EquivIndepJACM.pdf))
 
 - *Behavioural Equivalence via Modalities for Algebraic Effects*, with Niels Voorneveld, ACM TOPLAS 42(1):1-45, 2019. ([ACM publication](https://dl.acm.org/doi/10.1145/3363518))
 
